@@ -1,9 +1,9 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E16AQFax8K5pFcqUw/profile-displaybackgroundimage-shrink_350_1400/0/1632265093435?e=1685577600&v=beta&t=bsxcpzxnVeLXd0D1MpJPKiKKAOK4S-ehM2zQZmaGstM)](https://nikhilmaurya26.io)
 <h1 align="center">Hi 👋, I'm Nikhil Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/ITc1hNBSH_wAAAAd/coding-typing.gif"/>
-<p align="left"> <img src="[https://media.tenor.com/ITc1hNBSH_wAAAAd/coding-typing.gif](https://komarev.com/ghpvc/?username=nikhilmaurya26&label=Profile%20views&color=0e75b6&style=flat)" alt="nikhilmaurya26" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/ITc1hNBSH_wAAAAd/coding-typing.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilmaurya26&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilmaurya26" /> </p>
 <p align="left"> <a href="https://twitter.com/nikhilmaurya26" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilmaurya26?logo=twitter&style=for-the-badge" alt="nikhilmaurya26" /></a> </p>
 
 - 🔭 I’m currently working on **React Websites**
