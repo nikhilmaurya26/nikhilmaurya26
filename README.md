@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E16AQFax8K5pFcqUw/profile-displaybackgroundimage-shrink_350_1400/0/1632265093435?e=1685577600&v=beta&t=bsxcpzxnVeLXd0D1MpJPKiKKAOK4S-ehM2zQZmaGstM)](https://nikhilmaurya26.io)
+(https://nikhilmaurya26.io)
 
 <h1 align="center">Hi 👋, I'm Nikhil Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
